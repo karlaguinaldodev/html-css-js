@@ -1,2 +1,2 @@
 # html-css-js
-# my practice area in html and css, tried to copy the desktop-design in the folder exercises.
+# My practice area in html and css, tried to copy the desktop-design in the folder exercises from scratch
